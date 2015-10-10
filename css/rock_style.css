@@ -1,0 +1,149 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-sRock_0 {
+    width: 270px;
+    height: 220px;
+    background-position: -5px -5px;
+}
+
+.sprite-sRock_1 {
+    width: 270px;
+    height: 220px;
+    background-position: -285px -5px;
+}
+
+.sprite-sRock_10 {
+    width: 270px;
+    height: 220px;
+    background-position: -565px -5px;
+}
+
+.sprite-sRock_11 {
+    width: 270px;
+    height: 220px;
+    background-position: -845px -5px;
+}
+
+.sprite-sRock_12 {
+    width: 270px;
+    height: 220px;
+    background-position: -1125px -5px;
+}
+
+.sprite-sRock_13 {
+    width: 270px;
+    height: 220px;
+    background-position: -1405px -5px;
+}
+
+.sprite-sRock_14 {
+    width: 270px;
+    height: 220px;
+    background-position: -1685px -5px;
+}
+
+.sprite-sRock_15 {
+    width: 270px;
+    height: 220px;
+    background-position: -1965px -5px;
+}
+
+.sprite-sRock_16 {
+    width: 270px;
+    height: 220px;
+    background-position: -2245px -5px;
+}
+
+.sprite-sRock_17 {
+    width: 270px;
+    height: 220px;
+    background-position: -2525px -5px;
+}
+
+.sprite-sRock_18 {
+    width: 270px;
+    height: 220px;
+    background-position: -2805px -5px;
+}
+
+.sprite-sRock_19 {
+    width: 270px;
+    height: 220px;
+    background-position: -3085px -5px;
+}
+
+.sprite-sRock_2 {
+    width: 270px;
+    height: 220px;
+    background-position: -3365px -5px;
+}
+
+.sprite-sRock_20 {
+    width: 270px;
+    height: 220px;
+    background-position: -3645px -5px;
+}
+
+.sprite-sRock_21 {
+    width: 270px;
+    height: 220px;
+    background-position: -3925px -5px;
+}
+
+.sprite-sRock_22 {
+    width: 270px;
+    height: 220px;
+    background-position: -4205px -5px;
+}
+
+.sprite-sRock_23 {
+    width: 270px;
+    height: 220px;
+    background-position: -4485px -5px;
+}
+
+.sprite-sRock_3 {
+    width: 270px;
+    height: 220px;
+    background-position: -4765px -5px;
+}
+
+.sprite-sRock_4 {
+    width: 270px;
+    height: 220px;
+    background-position: -5045px -5px;
+}
+
+.sprite-sRock_5 {
+    width: 270px;
+    height: 220px;
+    background-position: -5325px -5px;
+}
+
+.sprite-sRock_6 {
+    width: 270px;
+    height: 220px;
+    background-position: -5605px -5px;
+}
+
+.sprite-sRock_7 {
+    width: 270px;
+    height: 220px;
+    background-position: -5885px -5px;
+}
+
+.sprite-sRock_8 {
+    width: 270px;
+    height: 220px;
+    background-position: -6165px -5px;
+}
+
+.sprite-sRock_9 {
+    width: 270px;
+    height: 220px;
+    background-position: -6445px -5px;
+}

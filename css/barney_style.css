@@ -1,0 +1,65 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-sBarney_0 {
+    width: 600px;
+    height: 370px;
+    background-position: -5px -5px;
+}
+
+.sprite-sBarney_1 {
+    width: 600px;
+    height: 370px;
+    background-position: -615px -5px;
+}
+
+.sprite-sBarney_2 {
+    width: 600px;
+    height: 370px;
+    background-position: -1225px -5px;
+}
+
+.sprite-sBarney_3 {
+    width: 600px;
+    height: 370px;
+    background-position: -1835px -5px;
+}
+
+.sprite-sBarney_4 {
+    width: 600px;
+    height: 370px;
+    background-position: -2445px -5px;
+}
+
+.sprite-sBarney_5 {
+    width: 600px;
+    height: 370px;
+    background-position: -3055px -5px;
+}
+
+.sprite-sBarney_6 {
+    width: 600px;
+    height: 370px;
+    background-position: -3665px -5px;
+}
+
+.sprite-sBarney_7 {
+    width: 600px;
+    height: 370px;
+    background-position: -4275px -5px;
+}
+
+.sprite-sBarney_8 {
+    width: 600px;
+    height: 370px;
+    background-position: -4885px -5px;
+}
+
+.sprite-sBarney_9 {
+    width: 600px;
+    height: 370px;
+    background-position: -5495px -5px;
+}
