@@ -1,0 +1,53 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-sChicken_0 {
+    width: 300px;
+    height: 320px;
+    background-position: -5px -5px;
+}
+
+.sprite-sChicken_1 {
+    width: 300px;
+    height: 320px;
+    background-position: -315px -5px;
+}
+
+.sprite-sChicken_2 {
+    width: 300px;
+    height: 320px;
+    background-position: -625px -5px;
+}
+
+.sprite-sChicken_3 {
+    width: 300px;
+    height: 320px;
+    background-position: -935px -5px;
+}
+
+.sprite-sChicken_4 {
+    width: 300px;
+    height: 320px;
+    background-position: -1245px -5px;
+}
+
+.sprite-sChicken_5 {
+    width: 300px;
+    height: 320px;
+    background-position: -1555px -5px;
+}
+
+.sprite-sChicken_6 {
+    width: 300px;
+    height: 320px;
+    background-position: -1865px -5px;
+}
+
+.sprite-sChicken_7 {
+    width: 300px;
+    height: 320px;
+    background-position: -2175px -5px;
+}

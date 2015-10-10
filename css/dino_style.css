@@ -1,0 +1,71 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-sMiniDino_0 {
+    width: 191px;
+    height: 109px;
+    background-position: -5px -5px;
+}
+
+.sprite-sMiniDino_1 {
+    width: 191px;
+    height: 109px;
+    background-position: -206px -5px;
+}
+
+.sprite-sMiniDino_10 {
+    width: 191px;
+    height: 109px;
+    background-position: -407px -5px;
+}
+
+.sprite-sMiniDino_2 {
+    width: 191px;
+    height: 109px;
+    background-position: -608px -5px;
+}
+
+.sprite-sMiniDino_3 {
+    width: 191px;
+    height: 109px;
+    background-position: -809px -5px;
+}
+
+.sprite-sMiniDino_4 {
+    width: 191px;
+    height: 109px;
+    background-position: -1010px -5px;
+}
+
+.sprite-sMiniDino_5 {
+    width: 191px;
+    height: 109px;
+    background-position: -1211px -5px;
+}
+
+.sprite-sMiniDino_6 {
+    width: 191px;
+    height: 109px;
+    background-position: -1412px -5px;
+}
+
+.sprite-sMiniDino_7 {
+    width: 191px;
+    height: 109px;
+    background-position: -1613px -5px;
+}
+
+.sprite-sMiniDino_8 {
+    width: 191px;
+    height: 109px;
+    background-position: -1814px -5px;
+}
+
+.sprite-sMiniDino_9 {
+    width: 191px;
+    height: 109px;
+    background-position: -2015px -5px;
+}

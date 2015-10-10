@@ -1,0 +1,41 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-sFossils_0 {
+    width: 320px;
+    height: 250px;
+    background-position: -5px -5px;
+}
+
+.sprite-sFossils_1 {
+    width: 320px;
+    height: 250px;
+    background-position: -335px -5px;
+}
+
+.sprite-sFossils_2 {
+    width: 320px;
+    height: 250px;
+    background-position: -665px -5px;
+}
+
+.sprite-sFossils_3 {
+    width: 320px;
+    height: 250px;
+    background-position: -995px -5px;
+}
+
+.sprite-sFossils_4 {
+    width: 320px;
+    height: 250px;
+    background-position: -1325px -5px;
+}
+
+.sprite-sFossils_5 {
+    width: 320px;
+    height: 250px;
+    background-position: -1655px -5px;
+}

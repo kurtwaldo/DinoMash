@@ -1,0 +1,47 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-sSlothSnore_0 {
+    width: 500px;
+    height: 350px;
+    background-position: -5px -5px;
+}
+
+.sprite-sSlothSnore_1 {
+    width: 500px;
+    height: 350px;
+    background-position: -515px -5px;
+}
+
+.sprite-sSlothSnore_2 {
+    width: 500px;
+    height: 350px;
+    background-position: -1025px -5px;
+}
+
+.sprite-sSlothSnore_3 {
+    width: 500px;
+    height: 350px;
+    background-position: -1535px -5px;
+}
+
+.sprite-sSlothSnore_4 {
+    width: 500px;
+    height: 350px;
+    background-position: -2045px -5px;
+}
+
+.sprite-sSlothSnore_5 {
+    width: 500px;
+    height: 350px;
+    background-position: -2555px -5px;
+}
+
+.sprite-sSlothSnore_6 {
+    width: 500px;
+    height: 350px;
+    background-position: -3065px -5px;
+}
