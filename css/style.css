@@ -49,6 +49,9 @@ table {
 /* ---------------------------------------------
 	Main stuff
 --------------------------------------------- */
+b{
+	font-weight: bold;
+}
 
 body
 {
@@ -353,7 +356,7 @@ body
 .about a
 {
 	text-decoration: none;
-	color: #28475e;
+	color: #FBBD8D;
 }
 
 .about a:hover
