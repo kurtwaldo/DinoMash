@@ -414,9 +414,10 @@ h3
 	margin-top: 20px;
 }
 
-.about img
+.about #assets img
 {
-	width: 100%;
+	width: 60%;
+	margin-right: 40%;
 }
 
 .quote
